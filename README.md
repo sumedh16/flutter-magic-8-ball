@@ -1,16 +1,5 @@
 # magic_8_ball
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+- This is a flutter app which replicates the magic-8-ball.  
+<br><br>
+- The Magic 8 Ball is a plastic sphere, made to look like an oversized eight ball, that is used for fortune-telling or seeking advice.  The user asks a yes–no question to the ball, then turns it over to reveal an answer in a window on the ball.
